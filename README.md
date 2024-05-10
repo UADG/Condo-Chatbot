@@ -1,13 +1,2 @@
-# ตัวอย่างโค้ด Chatbot ที่ตอบกลับแบบ if-else
-
-## ติดตั้งก่อน (กรณีไม่ได้รันในdocker)
-```
-pip install -r requirements.txt
-
-```
-
-## อย่าลืมใส่!!
-```
-Channel_access_token=""
-**ดูใน line bot ที่สร้างไว้
-```# Condo-Chatbot
+slide condo chatbot : 
+https://drive.google.com/file/d/1sEhiitoeDbuu8KEWUJkdTMVmYcJHWNru/view?usp=sharing
